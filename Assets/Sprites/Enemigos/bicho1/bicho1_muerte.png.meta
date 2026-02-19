@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 90dd41508986f3444880c6171d3ebc16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5258627353265237543
+    second: bicho1_muerte_0
+  - first:
+      213: 4029551993387145224
+    second: bicho1_muerte_1
+  - first:
+      213: -1994123798578432212
+    second: bicho1_muerte_2
+  - first:
+      213: 4464768224784910094
+    second: bicho1_muerte_3
+  - first:
+      213: 5939222202848866734
+    second: bicho1_muerte_4
+  - first:
+      213: -2142769482524458754
+    second: bicho1_muerte_5
+  - first:
+      213: -4319241653698177122
+    second: bicho1_muerte_6
+  - first:
+      213: -7177077642625489106
+    second: bicho1_muerte_7
+  - first:
+      213: 4136074541182690764
+    second: bicho1_muerte_8
+  - first:
+      213: -6111937827171487395
+    second: bicho1_muerte_9
+  - first:
+      213: 5900922298935559075
+    second: bicho1_muerte_10
+  - first:
+      213: -4041602338509296803
+    second: bicho1_muerte_11
+  - first:
+      213: -8143021374068473179
+    second: bicho1_muerte_12
+  - first:
+      213: 9183483915198483602
+    second: bicho1_muerte_13
+  - first:
+      213: 7691830738097690248
+    second: bicho1_muerte_14
+  - first:
+      213: 6907946955860389631
+    second: bicho1_muerte_15
+  - first:
+      213: 6876564212396751586
+    second: bicho1_muerte_16
+  - first:
+      213: -4881102017881530331
+    second: bicho1_muerte_17
+  - first:
+      213: 6015892423589275553
+    second: bicho1_muerte_18
+  - first:
+      213: 3699466369384183911
+    second: bicho1_muerte_19
+  - first:
+      213: -4325317572076505812
+    second: bicho1_muerte_20
+  - first:
+      213: -7613146913772511805
+    second: bicho1_muerte_21
+  - first:
+      213: 819848816026030978
+    second: bicho1_muerte_22
+  - first:
+      213: 1764408595341052426
+    second: bicho1_muerte_23
+  - first:
+      213: 7424596695222439660
+    second: bicho1_muerte_24
+  - first:
+      213: -8988184721285274351
+    second: bicho1_muerte_25
+  - first:
+      213: -2733513520084885239
+    second: bicho1_muerte_26
+  - first:
+      213: -1399813184723176658
+    second: bicho1_muerte_27
+  - first:
+      213: 3341046550403266151
+    second: bicho1_muerte_28
+  - first:
+      213: -2517932902327664499
+    second: bicho1_muerte_29
+  - first:
+      213: 1628591980446015744
+    second: bicho1_muerte_30
+  - first:
+      213: 8628708245504762909
+    second: bicho1_muerte_31
+  - first:
+      213: -6128581899504252310
+    second: bicho1_muerte_32
+  - first:
+      213: -8979951018184401120
+    second: bicho1_muerte_33
+  - first:
+      213: 589772498947063273
+    second: bicho1_muerte_34
+  - first:
+      213: 6197646964190450439
+    second: bicho1_muerte_35
+  - first:
+      213: 7587425542850153609
+    second: bicho1_muerte_36
+  - first:
+      213: 7604246003577450779
+    second: bicho1_muerte_37
+  - first:
+      213: -8283049257700277642
+    second: bicho1_muerte_38
+  - first:
+      213: -713304582647542018
+    second: bicho1_muerte_39
+  - first:
+      213: -2284936998196843962
+    second: bicho1_muerte_40
+  - first:
+      213: 3871419600035273813
+    second: bicho1_muerte_41
+  - first:
+      213: 7846074822311799984
+    second: bicho1_muerte_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bicho1_muerte_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 17
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ee68567b56af840800000000000000
+      internalID: 5258627353265237543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 17
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808dec14038dbe730800000000000000
+      internalID: 4029551993387145224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 17
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27749378f27354e0800000000000000
+      internalID: -1994123798578432212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 17
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0781ca8b0b06fd30800000000000000
+      internalID: 4464768224784910094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 17
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea17bea402b5c6250800000000000000
+      internalID: 5939222202848866734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 17
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0059e228a5342e0800000000000000
+      internalID: -2142769482524458754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 17
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97df3ca998fe04c0800000000000000
+      internalID: -4319241653698177122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 14
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e8e9e8e5e56c90800000000000000
+      internalID: -7177077642625489106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 9
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc52bbf91e9466930800000000000000
+      internalID: 4136074541182690764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_9
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 4
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51bb2abde80e2ba0800000000000000
+      internalID: -6111937827171487395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_36
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 0
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c0f41d453fb4960800000000000000
+      internalID: 7587425542850153609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_41
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c56945d9b0ab530800000000000000
+      internalID: 3871419600035273813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicho1_muerte_42
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bce7090b7bd2ec60800000000000000
+      internalID: 7846074822311799984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b8b102f4b20ee114d9d466c36344cc34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bicho1_muerte_0: 5258627353265237543
+      bicho1_muerte_1: 4029551993387145224
+      bicho1_muerte_10: 5900922298935559075
+      bicho1_muerte_11: -4041602338509296803
+      bicho1_muerte_12: -8143021374068473179
+      bicho1_muerte_13: 9183483915198483602
+      bicho1_muerte_14: 7691830738097690248
+      bicho1_muerte_15: 6907946955860389631
+      bicho1_muerte_16: 6876564212396751586
+      bicho1_muerte_17: -4881102017881530331
+      bicho1_muerte_18: 6015892423589275553
+      bicho1_muerte_19: 3699466369384183911
+      bicho1_muerte_2: -1994123798578432212
+      bicho1_muerte_20: -4325317572076505812
+      bicho1_muerte_21: -7613146913772511805
+      bicho1_muerte_22: 819848816026030978
+      bicho1_muerte_23: 1764408595341052426
+      bicho1_muerte_24: 7424596695222439660
+      bicho1_muerte_25: -8988184721285274351
+      bicho1_muerte_26: -2733513520084885239
+      bicho1_muerte_27: -1399813184723176658
+      bicho1_muerte_28: 3341046550403266151
+      bicho1_muerte_29: -2517932902327664499
+      bicho1_muerte_3: 4464768224784910094
+      bicho1_muerte_30: 1628591980446015744
+      bicho1_muerte_31: 8628708245504762909
+      bicho1_muerte_32: -6128581899504252310
+      bicho1_muerte_33: -8979951018184401120
+      bicho1_muerte_34: 589772498947063273
+      bicho1_muerte_35: 6197646964190450439
+      bicho1_muerte_36: 7587425542850153609
+      bicho1_muerte_37: 7604246003577450779
+      bicho1_muerte_38: -8283049257700277642
+      bicho1_muerte_39: -713304582647542018
+      bicho1_muerte_4: 5939222202848866734
+      bicho1_muerte_40: -2284936998196843962
+      bicho1_muerte_41: 3871419600035273813
+      bicho1_muerte_42: 7846074822311799984
+      bicho1_muerte_5: -2142769482524458754
+      bicho1_muerte_6: -4319241653698177122
+      bicho1_muerte_7: -7177077642625489106
+      bicho1_muerte_8: 4136074541182690764
+      bicho1_muerte_9: -6111937827171487395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -85,7 +85,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -99,7 +99,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 10
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,10 +120,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -151,12 +151,12 @@ TextureImporter:
       name: muelte_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 15
-        width: 33
-        height: 66
+        x: 0
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -173,12 +173,12 @@ TextureImporter:
       name: muelte_1
       rect:
         serializedVersion: 2
-        x: 158
-        y: 15
-        width: 32
-        height: 66
+        x: 128
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -195,12 +195,12 @@ TextureImporter:
       name: muelte_2
       rect:
         serializedVersion: 2
-        x: 287
-        y: 15
-        width: 31
-        height: 65
+        x: 256
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -217,12 +217,12 @@ TextureImporter:
       name: muelte_3
       rect:
         serializedVersion: 2
-        x: 416
-        y: 15
-        width: 33
-        height: 64
+        x: 384
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,12 +239,12 @@ TextureImporter:
       name: muelte_4
       rect:
         serializedVersion: 2
-        x: 543
-        y: 15
-        width: 36
-        height: 63
+        x: 512
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -261,12 +261,12 @@ TextureImporter:
       name: muelte_5
       rect:
         serializedVersion: 2
-        x: 673
-        y: 15
-        width: 36
-        height: 61
+        x: 640
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -283,12 +283,12 @@ TextureImporter:
       name: muelte_6
       rect:
         serializedVersion: 2
-        x: 802
-        y: 15
-        width: 35
-        height: 58
+        x: 768
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,12 +305,12 @@ TextureImporter:
       name: muelte_7
       rect:
         serializedVersion: 2
-        x: 930
-        y: 15
-        width: 33
-        height: 55
+        x: 896
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -327,12 +327,12 @@ TextureImporter:
       name: muelte_8
       rect:
         serializedVersion: 2
-        x: 1058
-        y: 15
-        width: 39
-        height: 44
+        x: 1024
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,12 +349,12 @@ TextureImporter:
       name: muelte_9
       rect:
         serializedVersion: 2
-        x: 1073
-        y: 58
-        width: 24
-        height: 14
+        x: 1152
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,12 +371,12 @@ TextureImporter:
       name: muelte_10
       rect:
         serializedVersion: 2
-        x: 1186
-        y: 15
-        width: 51
-        height: 51
+        x: 1280
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,12 +393,12 @@ TextureImporter:
       name: muelte_11
       rect:
         serializedVersion: 2
-        x: 1314
-        y: 15
-        width: 65
-        height: 26
+        x: 1408
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -415,12 +415,12 @@ TextureImporter:
       name: muelte_12
       rect:
         serializedVersion: 2
-        x: 1348
-        y: 35
-        width: 16
-        height: 22
+        x: 1536
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: muelte_13
       rect:
         serializedVersion: 2
-        x: 1442
-        y: 15
-        width: 65
-        height: 30
+        x: 1664
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -459,12 +459,12 @@ TextureImporter:
       name: muelte_14
       rect:
         serializedVersion: 2
-        x: 1570
-        y: 15
-        width: 65
-        height: 23
+        x: 1792
+        y: 16
+        width: 98
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -477,55 +477,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: muelte_15
-      rect:
-        serializedVersion: 2
-        x: 1698
-        y: 15
-        width: 65
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 862dc1ab4b3f61060800000000000000
-      internalID: 6923989434670830184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: muelte_16
-      rect:
-        serializedVersion: 2
-        x: 1826
-        y: 15
-        width: 65
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad37d5334f02949f0800000000000000
-      internalID: -483819251759746086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f970237417c08804ca9b8c1781aea8ca
     internalID: 0
     vertices: []
     indices: 
@@ -533,7 +489,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       muelte_0: 8043212026221316842
       muelte_1: -613457161254850921
@@ -542,8 +500,6 @@ TextureImporter:
       muelte_12: 4477753943744950529
       muelte_13: 4049839416826468712
       muelte_14: 212252770145690402
-      muelte_15: 6923989434670830184
-      muelte_16: -483819251759746086
       muelte_2: -6403239245854961743
       muelte_3: 524972905019916682
       muelte_4: 7816504603001840964

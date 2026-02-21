@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4833816717851287573}
   - component: {fileID: 928658029224951883}
   - component: {fileID: -8148165415507346660}
-  - component: {fileID: 4161394510832477141}
+  - component: {fileID: 8291461792022019422}
   m_Layer: 0
   m_Name: coleccionable_0
   m_TagString: Untagged
@@ -161,7 +161,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 3.2, y: 3.2}
   m_EdgeRadius: 0
---- !u!114 &4161394510832477141
+--- !u!114 &8291461792022019422
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -170,8 +170,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 9187644722139972260}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3c72346e077529142aa63e5040304253, type: 3}
+  m_Script: {fileID: 11500000, guid: 378e44b26643de1409ab0df0e24f5c86, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RecogerColeccionable
-  textoTMP: {fileID: 0}
-  textoLegacy: {fileID: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::coleccionable
+  fuenteDeAudio: {fileID: 0}
+  sonidoAtaque: {fileID: 0}

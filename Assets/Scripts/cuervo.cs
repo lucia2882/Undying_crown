@@ -46,8 +46,8 @@ public class cuervo : MonoBehaviour
 
     void PerseguirJugador()
     {
-        transform.position = puntoA.position;
-        animator.SetBool("isWalking", true);
+    transform.position = Vector2.MoveTowards(transform.position, puntoA.position, velocidad * Time.deltaTime);
+    animator.SetBool("isWalking", true);   
     }
 
     void OnCollisionEnter2D(Collision2D collision)

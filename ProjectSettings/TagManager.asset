@@ -6,6 +6,7 @@ TagManager:
   tags:
   - fallDetector
   - check
+  - final
   layers:
   - Default
   - TransparentFX

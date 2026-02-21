@@ -5,10 +5,9 @@ using System.Collections;
 public class botone : MonoBehaviour
 {
     public Button startButton;
-    public Button quitButton;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public Button quitButton;    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
-    {
+    {        
         startButton.onClick.AddListener(Empezarjuego);
         quitButton.onClick.AddListener(Salirjuego);
     }

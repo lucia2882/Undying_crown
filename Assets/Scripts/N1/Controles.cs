@@ -10,6 +10,7 @@ public class Controles : MonoBehaviour
     private Animator Animator;
     public Animator salto;
     private SpriteRenderer SpriteRenderer;
+    public float speed = 1f;
 
 
     void Start()
@@ -37,6 +38,6 @@ public class Controles : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Rigidbody2D.linearVelocity = new Vector2(Horizontal, Rigidbody2D.linearVelocity.y);
+        Rigidbody2D.linearVelocity = new Vector2(Horizontal * speed, Rigidbody2D.linearVelocity.y);
     }
 }

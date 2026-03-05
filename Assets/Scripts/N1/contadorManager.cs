@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
-using System.Collections; // Necesario para las Corrutinas (WaitForSeconds)
+using System.Collections;
 using System.Collections.Generic;
 
 public class contadorManager : MonoBehaviour
@@ -13,9 +13,9 @@ public class contadorManager : MonoBehaviour
         public int metaDeColeccionables;
 
         [Header("Acciones")]
-        public UnityEvent accionAlActivar;    // Lo que pasa al empezar
-        public float duracionDelEvento = 3f;  // Cuánto tiempo dura activo
-        public UnityEvent accionAlTerminar;   // Lo que pasa al finalizar el tiempo
+        public UnityEvent accionAlActivar;   
+        public float duracionDelEvento = 3f;
+        public UnityEvent accionAlTerminar;
 
         [HideInInspector] public bool completado = false;
     }

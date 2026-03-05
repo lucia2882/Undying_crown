@@ -112,12 +112,12 @@ TextureImporter:
       name: bicho1.0_idle_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 0
-        width: 52
-        height: 61
+        x: 0
+        y: 1
+        width: 64
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,12 +134,12 @@ TextureImporter:
       name: bicho1.0_idle_1
       rect:
         serializedVersion: 2
-        x: 67
-        y: 0
-        width: 53
-        height: 59
+        x: 64
+        y: 1
+        width: 64
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -156,12 +156,12 @@ TextureImporter:
       name: bicho1.0_idle_2
       rect:
         serializedVersion: 2
-        x: 130
-        y: 0
-        width: 55
-        height: 55
+        x: 128
+        y: 1
+        width: 64
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,12 +178,12 @@ TextureImporter:
       name: bicho1.0_idle_3
       rect:
         serializedVersion: 2
-        x: 195
-        y: 0
-        width: 53
-        height: 56
+        x: 192
+        y: 1
+        width: 64
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 20e9422c84207294682b777d121606cc
     internalID: 0
     vertices: []
     indices: 
@@ -208,7 +208,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":63.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       bicho1.0_idle_0: -1096250176645297254
       bicho1.0_idle_1: 6694452934557834724

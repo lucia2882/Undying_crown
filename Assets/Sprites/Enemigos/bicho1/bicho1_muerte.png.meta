@@ -229,10 +229,10 @@ TextureImporter:
       name: bicho1_muerte_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 17
-        width: 76
-        height: 75
+        x: 0
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,10 +251,10 @@ TextureImporter:
       name: bicho1_muerte_1
       rect:
         serializedVersion: 2
-        x: 100
-        y: 17
-        width: 76
-        height: 75
+        x: 96
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,10 +273,10 @@ TextureImporter:
       name: bicho1_muerte_2
       rect:
         serializedVersion: 2
-        x: 195
-        y: 17
-        width: 76
-        height: 75
+        x: 202
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,10 +295,10 @@ TextureImporter:
       name: bicho1_muerte_3
       rect:
         serializedVersion: 2
-        x: 297
-        y: 17
-        width: 76
-        height: 75
+        x: 305
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,10 +317,10 @@ TextureImporter:
       name: bicho1_muerte_4
       rect:
         serializedVersion: 2
-        x: 392
-        y: 17
-        width: 76
-        height: 75
+        x: 398
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -339,10 +339,10 @@ TextureImporter:
       name: bicho1_muerte_5
       rect:
         serializedVersion: 2
-        x: 488
-        y: 17
-        width: 76
-        height: 75
+        x: 493
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,10 +361,10 @@ TextureImporter:
       name: bicho1_muerte_6
       rect:
         serializedVersion: 2
-        x: 583
-        y: 17
-        width: 76
-        height: 75
+        x: 582
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,10 +383,10 @@ TextureImporter:
       name: bicho1_muerte_7
       rect:
         serializedVersion: 2
-        x: 679
-        y: 14
-        width: 76
-        height: 75
+        x: 672
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,10 +405,10 @@ TextureImporter:
       name: bicho1_muerte_8
       rect:
         serializedVersion: 2
-        x: 774
-        y: 9
-        width: 76
-        height: 75
+        x: 768
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,10 +427,10 @@ TextureImporter:
       name: bicho1_muerte_9
       rect:
         serializedVersion: 2
-        x: 869
-        y: 4
-        width: 76
-        height: 75
+        x: 864
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,67 +446,67 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bicho1_muerte_36
+      name: bicho1_muerte_10
       rect:
         serializedVersion: 2
-        x: 971
+        x: 960
         y: 0
-        width: 76
-        height: 75
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 98c0f41d453fb4960800000000000000
-      internalID: 7587425542850153609
+      spriteID: f5615c51968db6d4799fb8f5d5fbbee7
+      internalID: 5900922298935559075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bicho1_muerte_41
+      name: bicho1_muerte_11
       rect:
         serializedVersion: 2
-        x: 1066
+        x: 1056
         y: 0
-        width: 76
-        height: 75
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55c56945d9b0ab530800000000000000
-      internalID: 3871419600035273813
+      spriteID: f1ffbe9011800db4cada187d52a84404
+      internalID: -4041602338509296803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bicho1_muerte_42
+      name: bicho1_muerte_12
       rect:
         serializedVersion: 2
-        x: 1160
+        x: 1152
         y: 0
-        width: 76
-        height: 75
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0bce7090b7bd2ec60800000000000000
-      internalID: 7846074822311799984
+      spriteID: 8eb71119eb4654440a05fa73072a690e
+      internalID: -8143021374068473179
       vertices: []
       indices: 
       edges: []
@@ -523,46 +523,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       bicho1_muerte_0: 5258627353265237543
       bicho1_muerte_1: 4029551993387145224
       bicho1_muerte_10: 5900922298935559075
       bicho1_muerte_11: -4041602338509296803
       bicho1_muerte_12: -8143021374068473179
-      bicho1_muerte_13: 9183483915198483602
-      bicho1_muerte_14: 7691830738097690248
-      bicho1_muerte_15: 6907946955860389631
-      bicho1_muerte_16: 6876564212396751586
-      bicho1_muerte_17: -4881102017881530331
-      bicho1_muerte_18: 6015892423589275553
-      bicho1_muerte_19: 3699466369384183911
       bicho1_muerte_2: -1994123798578432212
-      bicho1_muerte_20: -4325317572076505812
-      bicho1_muerte_21: -7613146913772511805
-      bicho1_muerte_22: 819848816026030978
-      bicho1_muerte_23: 1764408595341052426
-      bicho1_muerte_24: 7424596695222439660
-      bicho1_muerte_25: -8988184721285274351
-      bicho1_muerte_26: -2733513520084885239
-      bicho1_muerte_27: -1399813184723176658
-      bicho1_muerte_28: 3341046550403266151
-      bicho1_muerte_29: -2517932902327664499
       bicho1_muerte_3: 4464768224784910094
-      bicho1_muerte_30: 1628591980446015744
-      bicho1_muerte_31: 8628708245504762909
-      bicho1_muerte_32: -6128581899504252310
-      bicho1_muerte_33: -8979951018184401120
-      bicho1_muerte_34: 589772498947063273
-      bicho1_muerte_35: 6197646964190450439
-      bicho1_muerte_36: 7587425542850153609
-      bicho1_muerte_37: 7604246003577450779
-      bicho1_muerte_38: -8283049257700277642
-      bicho1_muerte_39: -713304582647542018
       bicho1_muerte_4: 5939222202848866734
-      bicho1_muerte_40: -2284936998196843962
-      bicho1_muerte_41: 3871419600035273813
-      bicho1_muerte_42: 7846074822311799984
       bicho1_muerte_5: -2142769482524458754
       bicho1_muerte_6: -4319241653698177122
       bicho1_muerte_7: -7177077642625489106

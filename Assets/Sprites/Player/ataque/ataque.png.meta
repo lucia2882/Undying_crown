@@ -145,10 +145,10 @@ TextureImporter:
       name: ataque_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +167,10 @@ TextureImporter:
       name: ataque_1
       rect:
         serializedVersion: 2
-        x: 101
+        x: 96
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +189,10 @@ TextureImporter:
       name: ataque_2
       rect:
         serializedVersion: 2
-        x: 197
+        x: 192
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: ataque_3
       rect:
         serializedVersion: 2
-        x: 293
+        x: 288
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: ataque_4
       rect:
         serializedVersion: 2
-        x: 389
+        x: 384
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +255,10 @@ TextureImporter:
       name: ataque_5
       rect:
         serializedVersion: 2
-        x: 485
+        x: 480
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +277,10 @@ TextureImporter:
       name: ataque_7
       rect:
         serializedVersion: 2
-        x: 581
+        x: 672
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +299,10 @@ TextureImporter:
       name: ataque_8
       rect:
         serializedVersion: 2
-        x: 677
+        x: 768
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: ataque_9
       rect:
         serializedVersion: 2
-        x: 773
+        x: 864
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +343,10 @@ TextureImporter:
       name: ataque_10
       rect:
         serializedVersion: 2
-        x: 869
+        x: 960
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: ataque_11
       rect:
         serializedVersion: 2
-        x: 965
+        x: 1056
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,23 +384,23 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ataque_12
+      name: ataque_6
       rect:
         serializedVersion: 2
-        x: 1061
+        x: 576
         y: 16
-        width: 90
-        height: 66
+        width: 96
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6952d0d614940bb30800000000000000
-      internalID: 4301018189490103702
+      spriteID: 7c0cbe18edd4fd341933af1b94d7bfcb
+      internalID: 3051819532012036159
       vertices: []
       indices: 
       edges: []
@@ -417,15 +417,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       ataque_0: -926141960710292524
       ataque_1: -1872296513464402306
       ataque_10: 1469546985720595979
       ataque_11: 1857362486349820566
-      ataque_12: 4301018189490103702
-      ataque_13: 586736422248201551
-      ataque_14: -7394794245101316476
       ataque_2: 6337166670501449034
       ataque_3: -8465614037467305617
       ataque_4: 489902018361785280

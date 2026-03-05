@@ -112,9 +112,9 @@ TextureImporter:
       name: bicho1_idle_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 0
-        width: 59
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -134,9 +134,9 @@ TextureImporter:
       name: bicho1_idle_1
       rect:
         serializedVersion: 2
-        x: 66
+        x: 64
         y: 0
-        width: 59
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -156,9 +156,9 @@ TextureImporter:
       name: bicho1_idle_2
       rect:
         serializedVersion: 2
-        x: 130
+        x: 128
         y: 0
-        width: 59
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -178,9 +178,9 @@ TextureImporter:
       name: bicho1_idle_3
       rect:
         serializedVersion: 2
-        x: 194
+        x: 192
         y: 0
-        width: 59
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -208,7 +208,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       bicho1_idle_0: 3525241968989730486
       bicho1_idle_1: 7963645306596731250

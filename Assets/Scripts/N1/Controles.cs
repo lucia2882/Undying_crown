@@ -27,11 +27,11 @@ public class Controles : MonoBehaviour
         Animator.SetBool ("andar", Horizontal !=0.0f);
         if (Horizontal < 0)
             {
-                SpriteRenderer.flipX = true;   // Mira a la izquierda
+                transform.localScale = new Vector3(-1, 1, 1);   // Mira a la izquierda
             }
         else if (Horizontal > 0)
             {
-                SpriteRenderer.flipX = false;  // Mira a la derecha
+                transform.localScale = new Vector3(1, 1, 1);  // Mira a la derecha
             }
 
     }

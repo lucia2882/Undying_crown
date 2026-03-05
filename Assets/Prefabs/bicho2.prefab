@@ -151,8 +151,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.28420782}
-  m_Size: {x: 4.9013214, y: 4.931059}
+  m_Offset: {x: -0.16247559, y: -0.57761}
+  m_Size: {x: 5.0405884, y: 5.0405884}
   m_Direction: 0
 --- !u!50 &5256593227954363755
 Rigidbody2D:
@@ -166,7 +166,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 30
+  m_Mass: 60
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 9.8
@@ -195,6 +195,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrolChase
   velocidad: 2.7
   radioDeteccion: 20
+  tiempoEntreAtaques: 1.5
 --- !u!114 &8097269520507967007
 MonoBehaviour:
   m_ObjectHideFlags: 0

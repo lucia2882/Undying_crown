@@ -8,6 +8,11 @@ public class Enemigos : MonoBehaviour
     public Animator animacion;
     private Rigidbody2D rb;
 
+public bool IsDead() 
+{
+    return currentHealth <= 0;
+}
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -24,7 +29,10 @@ public class Enemigos : MonoBehaviour
             rb.linearVelocity = Vector2.zero;
             rb.angularVelocity = 0f;
             EnemyPatrolChase scriptMovimiento = GetComponent<EnemyPatrolChase>();
+        if(scriptMovimiento != null)
+        {
             scriptMovimiento.enabled = false;
+        }
             StartCoroutine(Die());
         }
     }
@@ -34,9 +42,8 @@ public class Enemigos : MonoBehaviour
      
         yield return new WaitForSeconds(0.1f);
         animacion.SetTrigger("muerte");
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(1.5f);
         Debug.Log("Enemigo derrotado");
         Destroy(gameObject);
- // O activa una animación de muerte
     }
 }

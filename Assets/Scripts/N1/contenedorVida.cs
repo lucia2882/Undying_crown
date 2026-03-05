@@ -6,6 +6,11 @@ public class contenedorVida : MonoBehaviour
 {
     public List<GameObject> listaCorazones; 
     public int vidaMaxima = 3;
+    public void AumentarCapacidad(int nuevaCapacidad)
+{
+    vidaMaxima = nuevaCapacidad;
+    ActualizarUI(vidaMaxima);
+}
 
     // EL ERROR SUELE ESTAR AQUÍ: No llames a funciones de UI aquí arriba.
     

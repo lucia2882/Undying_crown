@@ -13,13 +13,13 @@ public class PuertaNivel : MonoBehaviour
             // Verificamos si la imagen del TP en el Canvas está activa
             if (imagenTP.activeSelf)
             {
-                textoMensaje.text = "¡Nivel Completado! Llevas el TP.";
+                textoMensaje.text = "¡Nivel Completado! Llevas la piedra.";
                 textoMensaje.color = Color.green;
                 // Aquí podrías añadir: SceneManager.LoadScene("SiguienteNivel");
             }
             else
             {
-                textoMensaje.text = "No puedes salir sin el TP";
+                textoMensaje.text = "No puedes salir sin la piedra.";
                 textoMensaje.color = Color.red;
             }
         }

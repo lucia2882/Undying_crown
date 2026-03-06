@@ -30,7 +30,7 @@ public class ItemRecogible : MonoBehaviour
                         if (v != null)
                         {
                             // CAMBIO AQUÍ: Llamamos a la nueva función que creamos
-                            v.AumentarVidaMaxima(); 
+                            v.AumentarVidaMaxima();
                         }
                         inv.RecogerObjeto(1); // Activa imagen 1
                         break;

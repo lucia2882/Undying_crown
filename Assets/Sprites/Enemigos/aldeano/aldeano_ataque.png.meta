@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: ce97bd07acdcde0468160f04ff57958b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7849997492973142793
+    second: aldeano_ataque_0
+  - first:
+      213: -5274139867668704540
+    second: aldeano_ataque_1
+  - first:
+      213: -3341797467281670978
+    second: aldeano_ataque_2
+  - first:
+      213: 4218147266470426754
+    second: aldeano_ataque_3
+  - first:
+      213: -5735843893185575768
+    second: aldeano_ataque_4
+  - first:
+      213: 5936569003728310747
+    second: aldeano_ataque_5
+  - first:
+      213: 6773413843435348716
+    second: aldeano_ataque_6
+  - first:
+      213: -3347428923672711721
+    second: aldeano_ataque_7
+  - first:
+      213: -3375213655047375354
+    second: aldeano_ataque_8
+  - first:
+      213: 2093662568195013005
+    second: aldeano_ataque_9
+  - first:
+      213: 8590884749043835854
+    second: aldeano_ataque_10
+  - first:
+      213: -1216646312906950718
+    second: aldeano_ataque_11
+  - first:
+      213: -7057251878626960186
+    second: aldeano_ataque_12
+  - first:
+      213: 6929125266299229367
+    second: aldeano_ataque_13
+  - first:
+      213: -7558887093827776096
+    second: aldeano_ataque_14
+  - first:
+      213: -7566725728856705441
+    second: aldeano_ataque_15
+  - first:
+      213: -9192696894495219178
+    second: aldeano_ataque_16
+  - first:
+      213: 4369315713457249984
+    second: aldeano_ataque_17
+  - first:
+      213: 1349059346921723052
+    second: aldeano_ataque_18
+  - first:
+      213: 6251489981446138975
+    second: aldeano_ataque_19
+  - first:
+      213: -3488934363592024806
+    second: aldeano_ataque_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aldeano_ataque_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcf0a70fd43f0390800000000000000
+      internalID: -7849997492973142793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e291e3ebbd7ec6b0800000000000000
+      internalID: -5274139867668704540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc306bb8ec8f91d0800000000000000
+      internalID: -3341797467281670978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2883144179ed98a30800000000000000
+      internalID: 4218147266470426754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a484937e503660b0800000000000000
+      internalID: -5735843893185575768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd112db3e0ee26250800000000000000
+      internalID: 5936569003728310747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce26da6e000000e50800000000000000
+      internalID: 6773413843435348716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddae9d112b8b81d0800000000000000
+      internalID: -3347428923672711721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6067ad93015d821d0800000000000000
+      internalID: -3375213655047375354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_9
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89bbc8530f2e0d10800000000000000
+      internalID: 2093662568195013005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_10
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3241da924f83770800000000000000
+      internalID: 8590884749043835854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_11
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c774eddf9a9d1fe0800000000000000
+      internalID: -1216646312906950718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_12
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc5bfbaeca9f0e90800000000000000
+      internalID: -7057251878626960186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeano_ataque_13
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 16
+        width: 176
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b413f5b7b2392060800000000000000
+      internalID: 6929125266299229367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ffd7a25c161241c419ba10ac075ca927
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":14.0,"y":1.0},"gridSpriteSize":{"x":176.0,"y":112.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      aldeano_ataque_0: -7849997492973142793
+      aldeano_ataque_1: -5274139867668704540
+      aldeano_ataque_10: 8590884749043835854
+      aldeano_ataque_11: -1216646312906950718
+      aldeano_ataque_12: -7057251878626960186
+      aldeano_ataque_13: 6929125266299229367
+      aldeano_ataque_2: -3341797467281670978
+      aldeano_ataque_3: 4218147266470426754
+      aldeano_ataque_4: -5735843893185575768
+      aldeano_ataque_5: 5936569003728310747
+      aldeano_ataque_6: 6773413843435348716
+      aldeano_ataque_7: -3347428923672711721
+      aldeano_ataque_8: -3375213655047375354
+      aldeano_ataque_9: 2093662568195013005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

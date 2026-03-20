@@ -2338,6 +2338,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   salto: {fileID: 413271689}
+  puedeDobleSalto: 0
 --- !u!114 &413271686
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2581,6 +2582,7 @@ MonoBehaviour:
   - {fileID: 2135518618}
   - {fileID: 827449894}
   objetoTP: {fileID: 2118023613}
+  imagenDobleSaltoUI: {fileID: 0}
 --- !u!1001 &423781554
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -82936,6 +82938,7 @@ GameObject:
   - component: {fileID: 1057181121}
   - component: {fileID: 1057181120}
   - component: {fileID: 1057181119}
+  - component: {fileID: 1057181123}
   m_Layer: 3
   m_Name: puertafinal
   m_TagString: Untagged
@@ -83076,6 +83079,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1057181123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1057181118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea7e249906d34434baf776aec5ddf50f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CambioEscena
+  nombreEscenaSiguiente: Nivel3
 --- !u!1 &1058674201
 GameObject:
   m_ObjectHideFlags: 0

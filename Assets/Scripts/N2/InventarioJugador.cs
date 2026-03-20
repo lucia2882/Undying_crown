@@ -13,6 +13,24 @@ public class InventarioJugador : MonoBehaviour
     public GameObject[] imagenesUI; // Arrastra aquí las 4 imágenes del Canvas
     public GameObject objetoTP; // Referencia interna para el objeto TP
 
+    [Header("Referencias UI")]
+    public GameObject imagenDobleSaltoUI; 
+    public void ActivarHabilidadSalto()
+    {
+    Salto scriptSalto = GetComponent<Salto>();
+    if (scriptSalto != null)
+    {
+        scriptSalto.puedeDobleSalto = true;
+        Debug.Log("Habilidad de Doble Salto desbloqueada en el script Salto");
+    }
+
+    // 2. Activar la imagen en la UI
+    if (imagenDobleSaltoUI != null)
+    {
+        imagenDobleSaltoUI.SetActive(true);
+        Debug.Log("Icono de Doble Salto mostrado en UI");
+    }
+    }
     public bool PuedeRecoger()
     {
         int limite = tieneMochila ? limiteConMochila : limiteSinMochila;

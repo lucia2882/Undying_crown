@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ItemRecogible : MonoBehaviour
 {
-    public enum TipoItem { Mochila, Corazon, Reloj, TP }
+    public enum TipoItem { Mochila, Corazon, Reloj, TP, DobleSalto }
     public TipoItem tipo;
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -16,6 +16,13 @@ public class ItemRecogible : MonoBehaviour
             {
                 inv.tieneMochila = true;
                 inv.RecogerObjeto(0); // Activa la imagen 0 en el Canvas
+                Destroy(gameObject);
+                return;
+            }
+
+            if (tipo == TipoItem.DobleSalto)
+            {
+                inv.ActivarHabilidadSalto(); // Nueva función en el inventario
                 Destroy(gameObject);
                 return;
             }
@@ -46,6 +53,10 @@ public class ItemRecogible : MonoBehaviour
 
                     case TipoItem.TP:
                         inv.RecogerObjeto(3); // Activa imagen 3
+                        break;
+
+                    case TipoItem.DobleSalto:
+                        inv.ActivarHabilidadSalto();
                         break;
                 }
                 
